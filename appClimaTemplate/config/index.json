@@ -1,0 +1,13 @@
+{
+    "Themes": {
+        "Default": {
+            "CorCard":"#477fff",
+            "CorTitulo": "#000",
+            "CorTexto": "#fff",
+            "CorSubTitulo": "#ffffffc4",
+            "CorSubtituloOut": "#515151",
+            "CorBorderCard": "#acacac",
+            "CorFundo": "#fff"
+        }
+    }
+}
